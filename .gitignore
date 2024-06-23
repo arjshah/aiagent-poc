@@ -1,0 +1,7 @@
+# Ignore environment variable files
+.env
+
+# Ignore directories that contain sensitive or unnecessary files
+__pycache__/
+venv/
+.vscode/
